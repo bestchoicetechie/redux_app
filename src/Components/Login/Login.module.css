@@ -1,0 +1,28 @@
+.login{
+    background-color: white;
+    width: 40rem;
+    border-radius: 10px;
+    max-width: 90%;
+    text-align: center;
+    padding: 1rem;
+    margin: 2rem auto;
+}
+
+.control{
+    margin-bottom: 0.5rem;
+}
+
+.control label{
+    display: block;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+}
+
+.control input{
+    display: block;
+    margin: auto;
+    width: 20rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 0.25rem;
+}
